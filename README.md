@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/money-tracker-app.git
+git clone https://github.com/KSuraj9/Money_Tracker.git
 Navigate to the project directory:
 
 bash
@@ -39,7 +39,7 @@ Start the server:
 bash
 Copy code
 npm start
-Open in your browser: Visit http://localhost:3000 to start using the app.
+Open in your browser: Visit http://localhost:5000 to start using the app.
 
 🔧 Usage
 Add a New Expense: Fill in the expense details in the form provided and click "Add Expense".
